@@ -1,0 +1,14 @@
+* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Chakra Petch', sans-serif; } :root { --clr: #000000; }
+body {
+     display: flex;
+         background: var(--clr);
+             justify-content: center;
+             align-items: center;
+             line-height: 1.25;
+             min-height: 100vh; } 
+             .KjYo-632 {
+                 display: flex;
+                 justify-content: center;
+                 align-items: center;
+                 margin: 15px; }
+                 
