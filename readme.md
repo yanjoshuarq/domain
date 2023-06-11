@@ -1,6 +1,5 @@
-<h1 align="center">:infinity: Official Everybody Edits! ™</h1>
-<p align="center">:palm_tree: Is this private or secure? Yup. If you want to download and click on Download!™, sir curiosity.</p>
-<p align="center">I would like you to see the site.</p>
+![EE Logo](https://files.catbox.moe/5nozd4.png)
 
-<h1 align="center">:closed_lock_with_key: Announcement Everybody Edits! ™</h1>
-<p align="center">Everybody Edits is no longer in development.</p>
+##### <center style="color: #b4b4b4; text-decoration: none; text-transform: uppercase; font-size: 12px; font-weight: 100;">Is this private and secure? Absolutely, just out of curiosity, sir.</center>
+
+###### <center style="color: #b4b4b4; text-decoration: none; text-transform: uppercase; font-size: 10px; font-weight: 100;">Everybody Edits is no longer under development.</center>
